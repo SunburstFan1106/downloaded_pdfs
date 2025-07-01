@@ -2,8 +2,8 @@
 using namespace std;
 
 int main(){
-    freopen("list.txt","r",stdin);
-    freopen("out.txt","w",stdout);
+    freopen("1.txt","r",stdin);
+    freopen("testtttt.ans","w",stdout);
     string s;
     while(cin>>s){
         if(!s.find("未")){
